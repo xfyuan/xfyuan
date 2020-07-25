@@ -1,4 +1,4 @@
-### Hi there 👋, Welcom to xfyuan's GitHub page
+### Hi there 👋
 
 <!--
 **xfyuan/xfyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xfyuan&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 
