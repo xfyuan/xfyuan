@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Blog posts
+# Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [成为2020 GitHub北极源代码保险库计划的贡献者](http://xfyuan.github.io/2020/07/became-github-arctic-code-vault-contributor/)
 - [Ruby测试的“工厂疗法”](http://xfyuan.github.io/2020/07/testprof-factory-therapy-for-ruby-tests/)
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - [《Programming Elixir >= 1.6》第五章：匿名函数](http://xfyuan.github.io/2020/07/programming-elixir-1-6-chapter-5/)
 - [2020时代的Rails系统测试](http://xfyuan.github.io/2020/07/proper-browser-testing-in-rails/)
 <!-- BLOG-POST-LIST:END -->
+<p><a href="https://xfyuan.github.io/">➡️ More Blog Posts</a></p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xfyuan&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 
