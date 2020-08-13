@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [“端口—适配器”模式的概念(3)](http://xfyuan.github.io/2020/08/ports-and-adapters-pattern-part3/)
 - [“端口—适配器”模式的概念(2)](http://xfyuan.github.io/2020/08/ports-and-adapters-pattern-part2/)
 - [“端口—适配器”模式的概念(1)](http://xfyuan.github.io/2020/08/ports-and-adapters-pattern-part1/)
 - [GitHub个人页面的新玩法](http://xfyuan.github.io/2020/07/github-special-readme-appear-on-profile/)
 - [成为2020 GitHub北极源代码保险库计划的贡献者](http://xfyuan.github.io/2020/07/became-github-arctic-code-vault-contributor/)
-- [Ruby测试的“工厂疗法”](http://xfyuan.github.io/2020/07/testprof-factory-therapy-for-ruby-tests/)
 <!-- BLOG-POST-LIST:END -->
 <p><a href="https://xfyuan.github.io/">➡️ More Blog Posts</a></p>
 
