@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [自动运行MongoDB Docker为Replica模式](http://xfyuan.github.io/2020/09/auto-run-mongodb-docker-in-replica-mode/)
 - [TestProf文档中文版翻译完成上线](http://xfyuan.github.io/2020/08/testprof-chinese-doc-is-online/)
 - [“端口—适配器”模式的概念(3)](http://xfyuan.github.io/2020/08/ports-and-adapters-pattern-part3/)
 - [“端口—适配器”模式的概念(2)](http://xfyuan.github.io/2020/08/ports-and-adapters-pattern-part2/)
 - [“端口—适配器”模式的概念(1)](http://xfyuan.github.io/2020/08/ports-and-adapters-pattern-part1/)
-- [GitHub个人页面的新玩法](http://xfyuan.github.io/2020/07/github-special-readme-appear-on-profile/)
 <!-- BLOG-POST-LIST:END -->
 <p><a href="https://xfyuan.github.io/">➡️ More Blog Posts</a></p>
 
