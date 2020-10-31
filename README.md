@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [在Rails中尽早碾碎N+1查询](http://xfyuan.github.io/2020/10/squash-n-plus-one-queries-in-rails/)
 - [Build Docker时使用SSH Private Key的新玩法](http://xfyuan.github.io/2020/10/build-docker-with-private-ssh-key/)
 - [自动运行MongoDB Docker为Replica模式](http://xfyuan.github.io/2020/09/auto-run-mongodb-docker-in-replica-mode/)
 - [TestProf文档中文版翻译完成上线](http://xfyuan.github.io/2020/08/testprof-chinese-doc-is-online/)
 - [“端口—适配器”模式的概念(3)](http://xfyuan.github.io/2020/08/ports-and-adapters-pattern-part3/)
-- [“端口—适配器”模式的概念(2)](http://xfyuan.github.io/2020/08/ports-and-adapters-pattern-part2/)
 <!-- BLOG-POST-LIST:END -->
 <p><a href="https://xfyuan.github.io/">➡️ More Blog Posts</a></p>
 
