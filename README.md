@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GraphQL on Rails——更新](http://xfyuan.github.io/2020/11/graphql-on-rails-series-2/)
 - [GraphQL on Rails——启程](http://xfyuan.github.io/2020/11/graphql-on-rails-series-1/)
 - [自动运行MongoDB Docker为Replica模式（新）](http://xfyuan.github.io/2020/11/auto-run-mongodb-docker-in-replica-mode-update/)
 - [在Rails中尽早碾碎N+1查询](http://xfyuan.github.io/2020/10/squash-n-plus-one-queries-in-rails/)
 - [Build Docker时使用SSH Private Key的新玩法](http://xfyuan.github.io/2020/10/build-docker-with-private-ssh-key/)
-- [自动运行MongoDB Docker为Replica模式](http://xfyuan.github.io/2020/09/auto-run-mongodb-docker-in-replica-mode/)
 <!-- BLOG-POST-LIST:END -->
 <p><a href="https://xfyuan.github.io/">➡️ More Blog Posts</a></p>
 
