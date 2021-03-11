@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [让你的NeoVim Builtin LSP美轮美奂](http://xfyuan.github.io/2021/03/a-awesome-neovim-lsp-plugin/)
 - [Hotwire之Turbo介绍](http://xfyuan.github.io/2021/03/hotwire-turbo-introduction/)
 - [行云流水般的NeoVim Builtin LSP操作](http://xfyuan.github.io/2021/03/neovim-builtin-lsp-keymappings/)
 - [NeoVim Builtin LSP的基本配置](http://xfyuan.github.io/2021/02/neovim-builtin-lsp-basic-configuration/)
 - [正式切换到NeoVim Builtin LSP了！](http://xfyuan.github.io/2021/02/switch-to-neovim-builtin-lsp/)
-- [GraphQL on Rails——避免N+1问题](http://xfyuan.github.io/2020/12/how-to-graphql-no-n-plus-one/)
 <!-- BLOG-POST-LIST:END -->
 <p><a href="https://xfyuan.github.io/">➡️ More Blog Posts</a></p>
 
