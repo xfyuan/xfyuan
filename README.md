@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hotwire之构建Turbo应用](http://xfyuan.github.io/2021/03/hotwire-build-turbo-application/)
 - [Hotwire之使用Turbo Streams焕发活力](http://xfyuan.github.io/2021/03/hotwire-turbo-streams/)
 - [Hotwire之使用Turbo Frame解构页面](http://xfyuan.github.io/2021/03/hotwire-turbo-frame/)
 - [Hotwire之使用Turbo Drive导航](http://xfyuan.github.io/2021/03/hotwire-turbo-drive/)
 - [让你的NeoVim Builtin LSP美轮美奂](http://xfyuan.github.io/2021/03/a-awesome-neovim-lsp-plugin/)
-- [Hotwire之Turbo介绍](http://xfyuan.github.io/2021/03/hotwire-turbo-introduction/)
 <!-- BLOG-POST-LIST:END -->
 <p><a href="https://xfyuan.github.io/">➡️ More Blog Posts</a></p>
 
