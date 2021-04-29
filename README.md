@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Hotwire: 没有JavaScript的Reactive Rails](http://xfyuan.github.io/2021/04/hotwire-reactive-rails-with-no-javascript/)
 - [Tailwindcss底层基石的理念](http://xfyuan.github.io/2021/04/the-foundation-of-how-tailwindcss-works/)
 - [Hotwire之构建Turbo应用](http://xfyuan.github.io/2021/03/hotwire-build-turbo-application/)
 - [Hotwire之使用Turbo Streams焕发活力](http://xfyuan.github.io/2021/03/hotwire-turbo-streams/)
 - [Hotwire之使用Turbo Frame解构页面](http://xfyuan.github.io/2021/03/hotwire-turbo-frame/)
-- [Hotwire之使用Turbo Drive导航](http://xfyuan.github.io/2021/03/hotwire-turbo-drive/)
 <!-- BLOG-POST-LIST:END -->
 <p><a href="https://xfyuan.github.io/">➡️ More Blog Posts</a></p>
 
