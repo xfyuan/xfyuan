@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [在NeoVim上使用GitHub Copilot！](http://xfyuan.github.io/2021/11/github-copilot-in-neovim/)
 - [M1 Macbook上的Jekyll二三事](http://xfyuan.github.io/2021/09/jekyll-on-m1-macbook/)
 - [博客帮我获得Jetbrains全家桶的一年Open Source Licence](http://xfyuan.github.io/2021/09/jetbrains-assigned-open-source-licence-to-me/)
 - [Hotwire: 没有JavaScript的Reactive Rails](http://xfyuan.github.io/2021/04/hotwire-reactive-rails-with-no-javascript/)
 - [Tailwindcss底层基石的理念](http://xfyuan.github.io/2021/04/the-foundation-of-how-tailwindcss-works/)
-- [Hotwire之构建Turbo应用](http://xfyuan.github.io/2021/03/hotwire-build-turbo-application/)
 <!-- BLOG-POST-LIST:END -->
 <p><a href="https://xfyuan.github.io/">➡️ More Blog Posts</a></p>
 
