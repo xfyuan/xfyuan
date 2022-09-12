@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=xfyuan&show_icons=true&line_height=27" alt="My github stats" />
 </a>  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xfyuan)](https://git.io/streak-stats)
