@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [macOS下拷贝目录的小事](http://xfyuan.github.io/2022/11/copy-foler-structure-without-contents/)
 - [Rails7 的Zeitwerk模式解惑](http://xfyuan.github.io/2022/11/rails7-zeitwerk-mode/)
 - [纯粹的Rails便已足够](http://xfyuan.github.io/2022/11/vanilla-rails-is-plenty/)
 - [野生的ViewComponent（下）: 为组件增压加速](http://xfyuan.github.io/2022/11/viewcomponent-in-the-wild-supercharging-your-components/)
 - [野生的ViewComponent（上）: 构建现代Rails前端](http://xfyuan.github.io/2022/11/viewcomponent-in-the-wild-building-modern-rails-frontends/)
-- [Turbo: Streams vs. Frames](http://xfyuan.github.io/2022/08/turbo-streams-vs-frames/)
 <!-- BLOG-POST-LIST:END -->
 <p><a href="https://xfyuan.github.io/">➡️ More Blog Posts</a></p>
 
