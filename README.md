@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [10倍生产力程序员的特质](http://xfyuan.github.io/2022/12/10x-productive-programmer/)
 - [深入Rails的Zeitwerk模式](http://xfyuan.github.io/2022/12/deep-into-rails-zeitwerk-autoloader/)
 - [青山不改，绿水长流](http://xfyuan.github.io/2022/11/cyan-mountain/)
 - [macOS下拷贝目录的小事](http://xfyuan.github.io/2022/11/copy-foler-structure-without-contents/)
 - [Rails7 的Zeitwerk模式解惑](http://xfyuan.github.io/2022/11/rails7-zeitwerk-mode/)
-- [纯粹的Rails便已足够](http://xfyuan.github.io/2022/11/vanilla-rails-is-plenty/)
 <!-- BLOG-POST-LIST:END -->
 <p><a href="https://xfyuan.github.io/">➡️ More Blog Posts</a></p>
 
