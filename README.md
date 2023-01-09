@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2022世界杯阿根廷夺冠+梅西封王](http://xfyuan.github.io/2022/12/world-cup-2022/)
 - [Vite化的Rails](http://xfyuan.github.io/2022/12/vite-lizing-rails/)
 - [10倍生产力程序员的特质](http://xfyuan.github.io/2022/12/10x-productive-programmer/)
 - [深入Rails的Zeitwerk模式](http://xfyuan.github.io/2022/12/deep-into-rails-zeitwerk-autoloader/)
 - [青山不改，绿水长流](http://xfyuan.github.io/2022/11/cyan-mountain/)
-- [macOS下拷贝目录的小事](http://xfyuan.github.io/2022/11/copy-foler-structure-without-contents/)
 <!-- BLOG-POST-LIST:END -->
 <p><a href="https://xfyuan.github.io/">➡️ More Blog Posts</a></p>
 
