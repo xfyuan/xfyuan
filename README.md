@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Good concerns](http://xfyuan.github.io/2023/06/good-concerns/)
 - [领域驱动，必有勇夫](http://xfyuan.github.io/2023/04/domain-driven-boldness/)
 - [分形之旅](http://xfyuan.github.io/2023/03/fractal-journeys/)
 - [等待测试之际](http://xfyuan.github.io/2023/03/pending-tests/)
 - [懒惰的Neovim](http://xfyuan.github.io/2023/02/lazy-neovim/)
-- [博客更名为「TRAGEDXY」❤️](http://xfyuan.github.io/2023/02/blog-use-a-new-brand/)
 <!-- BLOG-POST-LIST:END -->
 <p><a href="https://xfyuan.github.io/">➡️ More Blog Posts</a></p>
 
