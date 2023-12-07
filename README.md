@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [辐射式开发者](http://xfyuan.github.io/2023/12/the-radiating-programmer/)
 - [Vladimir的赠书](http://xfyuan.github.io/2023/09/valadimir-gift-book/)
 - [JetBrains 惜 Neovim](http://xfyuan.github.io/2023/09/jetbrains-embrace-neovim/)
 - [Good concerns](http://xfyuan.github.io/2023/06/good-concerns/)
 - [领域驱动，必有勇夫](http://xfyuan.github.io/2023/04/domain-driven-boldness/)
-- [分形之旅](http://xfyuan.github.io/2023/03/fractal-journeys/)
 <!-- BLOG-POST-LIST:END -->
 <p><a href="https://xfyuan.github.io/">➡️ More Blog Posts</a></p>
 
