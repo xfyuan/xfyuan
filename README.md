@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [TestProf III：引导式及自动化的Ruby测试分析](http://xfyuan.github.io/2024/01/testprof-3-guided-and-automated-ruby-test-profiling/)
 - [炉石传说之拯救猎人——法术龙鹰猎](http://xfyuan.github.io/2024/01/hearthstone-deck-creative/)
 - [辐射式开发者](http://xfyuan.github.io/2023/12/the-radiating-programmer/)
 - [Vladimir的赠书](http://xfyuan.github.io/2023/09/valadimir-gift-book/)
 - [JetBrains 惜 Neovim](http://xfyuan.github.io/2023/09/jetbrains-embrace-neovim/)
-- [Good concerns](http://xfyuan.github.io/2023/06/good-concerns/)
 <!-- BLOG-POST-LIST:END -->
 <p><a href="https://xfyuan.github.io/">➡️ More Blog Posts</a></p>
 
