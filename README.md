@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 # Quick overview
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xfyuan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=xfyuan&theme=tokyonight-duo)](https://git.io/streak-stats)
