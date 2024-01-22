@@ -26,12 +26,5 @@ Here are some ideas to get you started:
 <p><a href="https://xfyuan.github.io/">➡️ More Blog Posts</a></p>
 
 # Quick overview
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=xfyuan" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=xfyuan&show_icons=true&line_height=27" alt="My github stats" />
-</a>  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=xfyuan)](https://git.io/streak-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xfyuan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
