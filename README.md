@@ -34,4 +34,4 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xfyuan&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=xfyuan&theme=tokyonight-duo&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=xfyuan&theme=tokyonight-duo&card_width=810)](https://git.io/streak-stats)
