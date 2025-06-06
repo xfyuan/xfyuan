@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [让Rails酷如既往](http://xfyuan.github.io/2025/06/keeping-rails-cool-the-modern-frontend-toolkit/)
 - [一万年太久，只争朝夕](http://xfyuan.github.io/2025/04/railing-against-time-tools-and-techniques-that-got-us-5x-faster-result/)
 - [宝石符文，好梦成真](http://xfyuan.github.io/2025/03/gemfile-of-dreams-libraries-we-use-to-build-rails-apps/)
 - [Monolith的新时代](http://xfyuan.github.io/2025/03/inertiajs-in-rails-a-new-era-of-effortless-integration/)
 - [一种文档优先的Rails API开发方案](http://xfyuan.github.io/2024/06/let-there-be-docs-a-documentation-first-approach-to-rails-api-development/)
-- [Lefthook的五种武器](http://xfyuan.github.io/2024/06/five-cool-and-surprising-ways-to-configure-lefthook-for-automation-joy/)
 <!-- BLOG-POST-LIST:END -->
 <p><a href="https://xfyuan.github.io/">➡️ More Blog Posts</a></p>
 
